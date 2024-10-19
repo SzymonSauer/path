@@ -1,0 +1,61 @@
+$main-color: rgba(144, 183, 206, 1);
+// $secondary-color: #164dcc;
+$secondary-color: rgb(120, 191, 231);
+$pure-white: #fff;
+$light-white: #eee;
+$dark: #2e2e2e;
+$green-color: #00ffaa;
+$green-color-hover: #0fe29c;
+
+$light-blue-gradient: linear-gradient(
+	45deg,
+	rgba(8, 206, 255, 0.75),
+	rgba(8, 24, 255, 0.75)
+);
+$bright-gradient: linear-gradient(
+	45deg,
+	rgba(96, 173, 209, 0.45),
+	rgba(172, 199, 212, 0.75)
+);
+
+$background-gradient: linear-gradient(
+	45deg,
+	rgba(96, 173, 209, 0.95),
+	rgba(172, 199, 212, 0.95)
+);
+$background-gradient-solid: linear-gradient(
+	45deg,
+	rgba(96, 173, 209, 1),
+	rgba(172, 199, 212, 1)
+);
+// $bright-gradient: linear-gradient(
+// 	45deg,
+// 	rgba(96, 173, 209, 0.85),
+// 	rgba(172, 199, 212, 0.65)
+// );
+$blue-gradient: linear-gradient(
+	45deg,
+	rgba(135, 178, 203, 0.4),
+	rgba(130, 175, 201, 0.3)
+);
+$purple-gradient: linear-gradient(
+	45deg,
+	rgba(190, 10, 214, 0.75),
+	rgba(68, 0, 255, 0.75)
+);
+$blue-gradient-solid: linear-gradient(
+	45deg,
+	rgb(20, 105, 241),
+	rgb(42, 10, 184)
+);
+$light-blue-gradient-solid: radial-gradient(
+	circle at top right,
+	rgb(0, 78, 255) 0%,
+	rgb(0, 212, 255) 100%
+);
+
+// $bright-gradient: radial-gradient(
+// 	circle at top right,
+// 	#60add1 0%,
+// 	#acc7d4 10%
+// );
